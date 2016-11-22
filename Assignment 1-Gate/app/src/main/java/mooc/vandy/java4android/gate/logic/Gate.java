@@ -10,14 +10,12 @@ public class Gate {
     public static int CLOSED = 0;
     private int mSwing;
 
-    public Gate()
-    {
+    public Gate() {
         mSwing = CLOSED;
     }
-    public boolean setSwing(int direction)
-    {
-        if(direction != mSwing && direction >= -1 && direction <= 1)
-        {
+
+    public boolean setSwing(int direction) {
+        if (direction != mSwing && direction >= -1 && direction <= 1) {
             mSwing = direction;
             return true;
         }
@@ -28,28 +26,27 @@ public class Gate {
         return setSwing(direction);
     }
 
-    public void close()
-    {}
+    public void close() {
+    }
 
     public int getSwingDirection() {
         return mSwing;
     }
-    public int thru(int count)
-    {
+
+    public int thru(int count) {
         return getSwingDirection() * count;
     }
 
     @Override
     public String toString() {
-        switch (getSwingDirection())
-        {
-            case -1 :
+        switch (getSwingDirection()) {
+            case -1:
                 return "This gate is open and swings to exit the pen only";
-            case 0 :
+            case 0:
                 return "This gate is closed";
-            case 1 :
+            case 1:
                 return "This gate is open and swings to enter the pen only";
-            default :
+            default:
                 return "This gate has an invalid swing direction";
         }
     }

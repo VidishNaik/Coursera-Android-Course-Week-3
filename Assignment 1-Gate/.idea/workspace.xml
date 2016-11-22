@@ -34,17 +34,17 @@
       <file leaf-file-name="Gate.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41095892">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.27123287">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2260,7 +2260,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.042662118" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2355,17 +2355,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41095892">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.27123287">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
           </folding>
         </state>
       </provider>
