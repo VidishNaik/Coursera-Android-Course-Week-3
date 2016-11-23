@@ -5,9 +5,9 @@ package mooc.vandy.java4android.gate.logic;
  */
 public class Gate {
     // TODO -- Fill in your code here
-    public static int IN = 1;
-    public static int OUT = -1;
-    public static int CLOSED = 0;
+    public static final int IN = 1;
+    public static final int OUT = -1;
+    public static final int CLOSED = 0;
     private int mSwing;
 
     public Gate() {

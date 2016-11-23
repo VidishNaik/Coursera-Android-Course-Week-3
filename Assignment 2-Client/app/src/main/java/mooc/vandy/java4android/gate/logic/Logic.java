@@ -62,7 +62,7 @@ public class Logic
         // code) based on the chosen drop down selection: 'Corral' or
         // 'Herd'.
         switch (classToTest) {
-        case Corral:
+        /*case Corral:
             // We're going to test the FillTheCorral class on this
             // run.
             final FillTheCorral mFillTheCorral =
@@ -84,7 +84,7 @@ public class Logic
             // Corral all the snails.
             mFillTheCorral.corralSnails(corral, randomNumber);
             break;
-
+        */
         case Herd:
             // We're going to test the HerdManager class on this run.
 

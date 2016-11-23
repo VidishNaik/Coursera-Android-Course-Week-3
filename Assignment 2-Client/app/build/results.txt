@@ -1,0 +1,28 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testSetGatesIn
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to test SetGatesIn
+Reference: This Test fails when: The Gate was not set to IN
+
+testSetGatesOut
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to test SetGatesOut
+Reference: This Test fails when: The Gate was not set to OUT
+
+testSimulateHerdOutput
+Rubric Score: 3.0/3.0
+Goal: The goal of this evaluation is to test SimulateHerdOutput
+Reference: This Test fails when: The herd.simulateHerd() output was incorrect
+
+----------Your solution missed points on the following grading rubrics:---------
+
+
+test24InHerd
+Rubric Score: 0.0/2.0
+Goal: The goal of this evaluation is to test 24InHerd
+Reference: This Test fails when: The Herd didn't maintain 24 snails upon each
+movement
+
