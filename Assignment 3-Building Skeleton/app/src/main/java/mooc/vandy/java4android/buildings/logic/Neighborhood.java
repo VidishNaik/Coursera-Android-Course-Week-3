@@ -14,16 +14,11 @@ public final class Neighborhood {
 
     // TODO - Put your code here.
 
-    public static void print(Building[] buildings,String header,OutputInterface out)
-    {
+    public static void print(Building[] buildings, String header, OutputInterface out) {}
 
-    }
-
-    public static int calcArea(Building[] buildings)
-    {
-        int area=0;
-        for (int i=0;i<buildings.length;i++)
-        {
+    public static int calcArea(Building[] buildings) {
+        int area = 0;
+        for (int i = 0; i < buildings.length; i++) {
             area = area + buildings[i].getLotLength() * buildings[i].getLotWidth();
         }
         return area;
