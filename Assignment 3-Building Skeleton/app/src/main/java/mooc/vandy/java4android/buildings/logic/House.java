@@ -10,6 +10,8 @@ public class House
     private String owner;
     private boolean pool;
 
+    public House(){}
+
     public House(int length,int width,int lotlength,int lotwidth)
     {
         super(length,width,lotlength,lotwidth);
@@ -25,6 +27,16 @@ public class House
     {
         this(length,width,lotlength,lotwidth,owner);
         this.pool=pool;
+    }
+
+    public String getOwner()
+    {
+        return owner;
+    }
+
+    public boolean hasPool()
+    {
+        return pool;
     }
 
     public void setOwner(String owner)
@@ -48,7 +60,7 @@ public class House
             sent = sent + "has a pool; ";
         if(calcLotArea() > calcBuildingArea())
             sent = sent + "has a big open space; ";
-        return sent;
+        return sent.substring(0,sent.length()-2);
     }
 
     @Override
