@@ -50,10 +50,7 @@ public class FillTheCorral {
         while (snails != 0) {
             int gateno = rand.nextInt(corral.length);
             int no = rand.nextInt(snails) + 1;
-            if (corral[gateno].getSwingDirection() == Gate.IN)
-                snails = snails - corral[gateno].thru(no);
-            else if (corral[gateno].getSwingDirection() == Gate.OUT)
-                snails = snails - corral[gateno].thru(no);
+            snails = snails - corral[gateno].thru(no);
             count++;
         }
         return count;
