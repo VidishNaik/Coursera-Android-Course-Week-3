@@ -40,8 +40,7 @@ public class Gate {
 
     @Override
     public String toString() {
-        switch (mSwing)
-        {
+        switch (mSwing) {
             case 0:
                 return "This gate is closed";
             case 1:

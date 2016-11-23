@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gate.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0777777">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="e#660#661#0" expanded="true" />
                 <element signature="e#686#687#0" expanded="true" />
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FillTheCorral.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FillTheCorral.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.55833334">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="AllUnitTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6206896">
+            <state vertical-scroll-proportion="0.0">
               <caret line="207" column="51" selection-start-line="207" selection-start-column="51" selection-end-line="207" selection-end-column="51" />
               <folding />
             </state>
@@ -1750,8 +1750,8 @@
         <option value="$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java" />
       </list>
     </option>
   </component>
@@ -2389,30 +2389,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
-          <folding />
+          <caret line="18" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6206896">
+        <state vertical-scroll-proportion="0.0">
           <caret line="207" column="51" selection-start-line="207" selection-start-column="51" selection-end-line="207" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0777777">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.55833334">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
