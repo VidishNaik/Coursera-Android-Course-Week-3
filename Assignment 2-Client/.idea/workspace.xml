@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HerdManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HerdManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73208725">
-              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -52,17 +52,17 @@
         <entry file="file://$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="345" column="6" selection-start-line="345" selection-start-column="6" selection-end-line="345" selection-end-column="6" />
+              <caret line="288" column="10" selection-start-line="288" selection-start-column="10" selection-end-line="288" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Logic.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Logic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.23835126">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -1767,10 +1767,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java" />
-        <option value="$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java" />
       </list>
     </option>
   </component>
@@ -1932,7 +1932,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment 1-Gate" />
     <property name="device.picker.selection" value="b872ee9f" />
   </component>
-  <component name="RunManager" selected="Android Application.app">
+  <component name="RunManager" selected="JUnit.AutoGrader">
     <configuration default="false" name="AllUnitTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -2266,12 +2266,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AllUnitTests - 2016.11.23 at 10h 54m 21s.xml">
-      <configuration name="AllUnitTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AllUnitTests - 2016.11.23 at 10h 58m 13s.xml">
-      <configuration name="AllUnitTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AllUnitTests - 2016.11.23 at 11h 00m 51s.xml">
       <configuration name="AllUnitTests" configurationId="JUnit" />
     </history-entry>
@@ -2290,10 +2284,16 @@
     <history-entry file="AllUnitTests - 2016.11.23 at 11h 15m 09s.xml">
       <configuration name="AllUnitTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AllUnitTests - 2016.11.23 at 11h 43m 10s.xml">
+      <configuration name="AllUnitTests" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="AutoGrader - 2016.11.23 at 11h 15m 32s.xml">
       <configuration name="AutoGrader" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AutoGrader - 2016.11.23 at 11h 16m 43s.xml">
+      <configuration name="AutoGrader" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoGrader - 2016.11.23 at 11h 43m 17s.xml">
       <configuration name="AutoGrader" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -2316,9 +2316,9 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40443686" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08020478" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33617747" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2376,22 +2376,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2403,18 +2387,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="345" column="6" selection-start-line="345" selection-start-column="6" selection-end-line="345" selection-end-column="6" />
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/mooc/vandy/java4android/gate/logic/AllUnitTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73208725">
-          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="288" column="10" selection-start-line="288" selection-start-column="10" selection-end-line="288" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/ClassToTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/gate/logic/Logic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23835126">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
           <folding />
         </state>
       </provider>

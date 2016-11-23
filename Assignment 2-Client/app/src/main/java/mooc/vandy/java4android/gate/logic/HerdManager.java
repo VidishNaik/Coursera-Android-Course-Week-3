@@ -54,34 +54,28 @@ public class HerdManager {
     public void simulateHerd(Random rand)
     {
         int in = HERD;
-        int out = 0;
-        int temp;
         int no;
-        for (int i=0;i<=MAX_ITERATIONS;i++)
+        mOut.println("There are currently "+in+" snails in the pen and "+(HERD - in)+" snails in the pasture");
+        for (int i=0;i<MAX_ITERATIONS;i++)
         {
-            mOut.println("There are currently "+in+" snails in the pen and "+out+" snails in the pasture");
-            if(out == 0)
+            if(in == 0)
                 no = 0;
-            else if (in == 0)
+            else if(HERD == in)
                 no = 1;
             else
                 no = rand.nextInt(2);
+
             switch (no)
             {
-                case 0:
-                    temp = rand.nextInt(in);
-                    mEastGate.thru(temp);
-                    out = out + temp;
-                    in = in - temp;
-                    break;
                 case 1:
-                    temp = rand.nextInt(out);
-                    mWestGate.thru(temp);
-                    out = out - temp;
-                    in = in + temp;
+                    in = in + mEastGate.thru(rand.nextInt(in) + 1);
+                    break;
+                case 0:
+                    in = in + mWestGate.thru(rand.nextInt(HERD - in) + 1);
                     break;
             }
-            Log.d("HerdManager","IN "+in+" OUT "+out);
+            mOut.println("There are currently "+in+" snails in the pen and "+(HERD - in)+" snails in the pasture");
+            Log.d("HerdManager","IN "+in+" OUT "+(HERD - in));
         }
     }
 

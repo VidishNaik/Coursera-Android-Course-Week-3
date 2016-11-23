@@ -201,7 +201,7 @@ public class AllUnitTests {
     }
 
     //FillTheCorral Tests
-    /*@Rubric(
+    @Rubric(
             value="testGateSetOrClosed",
             goal="The goal of this evaluation is to test GateSetOrClosed",
             points=2.0,
@@ -286,7 +286,7 @@ public class AllUnitTests {
           Gate 1: This gate is open and swings to enter the pen only.
           Gate 2: This gate is open and swings to enter the pen only.
           Gate 3: This gate is open and swings to exit the pen only.
-
+        */
 
         for (int i = 0; i < SIZE; ++i) {
             assertFalse(corral[i].getSwingDirection() == 0);
@@ -343,5 +343,5 @@ public class AllUnitTests {
         assertEquals(5, inPasture);
 
     }
-    */
+
 }
